@@ -10,6 +10,13 @@
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
+[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)](https://www.mysql.com/)
+[![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)](https://www.php.net/)
+[![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2B%2B)](https://isocpp.org/)
+[![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)](https://www.python.org/)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)](https://www.mongodb.com/)
+[![Excel](https://img.shields.io/badge/-Excel-black?style=flat-square&logo=microsoft-excel)](https://www.microsoft.com/en-us/microsoft-365/excel)
+
 
 <!-- Add more as needed -->
 
