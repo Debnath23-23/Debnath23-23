@@ -15,7 +15,7 @@
 [![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2B%2B)](https://isocpp.org/)
 [![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)](https://www.python.org/)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)](https://www.mongodb.com/)
-[![Excel](https://img.shields.io/badge/-Excel-black?style=flat-square&logo=microsoft-excel)](https://www.microsoft.com/en-us/microsoft-365/excel)
+[![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)](https://www.java.com/)
 
 
 <!-- Add more as needed -->
