@@ -32,3 +32,8 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Debnath23-23&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Debnath23-23&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+## 🏆 GitHub Profile Summary Cards
+[![GitHub Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Debnath23-23&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![GitHub Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Debnath23-23&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![GitHub Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Debnath23-23e&theme=github_dark&utcOffset=8)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
