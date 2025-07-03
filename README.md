@@ -25,7 +25,7 @@
 <!-- Add more as needed -->
 
 ## 📊 GitHub Stats:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Debnath23-23&show_icons=true&hide_title=true)
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Debnath23-23&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
