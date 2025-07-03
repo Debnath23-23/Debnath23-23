@@ -19,6 +19,7 @@
 [![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)](https://getbootstrap.com/)
+[![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)](https://www.python.org/)
 
 
 
@@ -37,5 +38,4 @@
 [![GitHub Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Debnath23-23&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![GitHub Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Debnath23-23&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-![GitHub Snake Dark](https://github.com/Debnath23-23/Debnath23-23/blob/output/github-snake-dark.svg?raw=true)
 
