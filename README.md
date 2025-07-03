@@ -27,8 +27,8 @@
 ## 📊 GitHub Stats:
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Debnath23-23&show_icons=true&hide_title=true)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=YourUsername&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Debnath23-23&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Debnath23-23&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Debnath23-23&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
